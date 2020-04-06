@@ -1,0 +1,9 @@
+{
+  "name": "js-waffle",
+  "version": "1.0.0",
+  "description": "CommonJS wrapper for django-waffle",
+  "main": "index.js",
+  "author": "Nar Saynorath <nar.saynorath@gmail.com>",
+  "license": "BSD-3-Clause",
+  "repository": "git@github.com:narsaynorath/js-waffle.git"
+}
